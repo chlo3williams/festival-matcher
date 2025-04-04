@@ -9,7 +9,7 @@ import Recommendations from "@/components/Recommendations";
 import DayFilter from "@/components/DayFilter";
 import MatchCard from "@/components/MatchCard";
 import RecommendationCard from "@/components/RecommendationCard";
-import { Recommendation } from "@/types/recommendation";
+import { Recommendation, RecommendationWithDay } from "@/types/recommendation";
 import { attachDayToRecommendations } from "@/helpers/attachDayToRecommendation";
 
 export default function LoggedInPage() {
@@ -24,7 +24,7 @@ export default function LoggedInPage() {
   const [artists, setArtists] = useState<Artist[]>([]);
   const [lineup, setLineup] = useState<FestivalLineup[]>([]);
   const [matches, setMatches] = useState<FestivalLineup[]>([]);
-  const [recommendations, setRecommendations] = useState<Recommendation[]>([]);
+  const [recommendations, setRecommendations] = useState<RecommendationWithDay[]>([]);
   const [showRecommendations, setShowRecommendations] = useState(false);
   const [selectedDay, setSelectedDay] = useState<string>("");
 
@@ -87,7 +87,7 @@ export default function LoggedInPage() {
                 <h2 className="mt-8">Smart Recommendations:</h2>
                 <div className="mt-8 grid gap-4 sm:grid-cols-2 mr-6 ml-6">
                   {filteredRecommendations.map((rec, i) => (
-                    <RecommendationCard day={""} key={i} {...rec} />
+                    <RecommendationCard key={i} {...rec} />
                   ))}
                 </div>
               </>

@@ -17,9 +17,9 @@ Here is a user's top Spotify artists:
 ${topArtists.map((a) => `- ${a.name}`).join("\n")}
 
 Here is the festival lineup:
-${lineup.map((a) => `- ${a.artist} (${a.day}, ${a.stage}${a.time ? ` @ ${a.time}` : ""})`).join("\n")}
+${lineup.map((a) => `- ${a.artist} (${a.day}, ${a.stage})`).join("\n")}
 
-Suggest up to 10 artists from the lineup that the user might like, based on their top artists (not including the ones they've already matched). For each one, give a short reason why.
+Suggest up to 20 artists from the lineup that the user might like, based on their top artists (not including the ones they've already matched). For each one, give a short reason why.
 Respond as a JSON array: [{"artist": "...", "reason": "..."}]
 `;
 
