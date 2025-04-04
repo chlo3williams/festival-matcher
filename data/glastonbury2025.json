@@ -1,0 +1,949 @@
+{
+  "lineup": [
+    {
+      "artist": "Abel Selaocoe & the Bantu Ensemble",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "AJ Tracey",
+      "day": "Sun 29th",
+      "stage": "Woodsies"
+    },
+    {
+      "artist": "Alabama 3",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Amaarae",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Amyl And The Sniffers",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Ani DiFranco",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Annie Mac",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Anohni And The Johnsons",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Ash",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "BadBadNotGood",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Banco de Gaia",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Basement Jaxx",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Basil Brush",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Beabadoobee",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Bear\u2019s Den",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Bess Atwell",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Beth Gibbons",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Biffy Clyro",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Billie Marten",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Black Uhuru",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Blossoms",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Bob Vylan",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Brandi Carlile",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Brooke Combe",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Burning Spear",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Busta Rhymes",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Ca7riel & Paco Amoroso",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Caribou",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Carl Cox",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Celeste",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Charli XCX",
+      "day": "Sat 28th",
+      "stage": "Other Stage"
+    },
+    {
+      "artist": "Cmat",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Corto.Alto",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Cymande",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Danilo Plessow",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Dawn Landes & Friends Perform the Liberated Woman\u2019s Songbook",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Deftones",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Denzel Curry",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Dhani Harrison",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Djo",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Doechii",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Duran Duran",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "En Vogue",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "English Teacher",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Ezra Collective",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Fat Dog",
+      "day": "day TBC",
+      "stage": "Woodsies"
+    },
+    {
+      "artist": "Fatboy Slim",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Father John Misty",
+      "day": "Sat 28th",
+      "stage": "Woodsies"
+    },
+    {
+      "artist": "Faye Webster",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "F\u00fcl\u00fc",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "FKA Twigs",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Fladam Theatre",
+      "day": "day TBC",
+      "stage": "Theatre & Circus"
+    },
+    {
+      "artist": "Floating Points",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Four Tet",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Franz Ferdinand",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Future Islands",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Gabrielle Aplin",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Gary Numan",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "girl in red",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Glass Beams",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Goat",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Goldie",
+      "day": "day TBC",
+      "stage": "The Glade"
+    },
+    {
+      "artist": "Gracie Abrams",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Greentea Peng",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Groove Armada",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Gurriers",
+      "day": "day TBC",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Hard-Fi",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Henry Grace",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Hothouse Flowers",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Hugh Cornwell",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Infinity Song",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Inhaler",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Jade",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Jade Bird",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Jamie Cullum",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Japanese Breakfast",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Jeremy Loops",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Joe Goddard (Hot Chip)",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "John Fogerty",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Jon Hopkins",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Jorja Smith",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Joy Crookes",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kae Tempest",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kaiser Chiefs",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kamasi Washington",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kasabian",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Katy J Pearson",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kneecap",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Kool Keith aka Dr Octagon",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Leftfield",
+      "day": "Sat 28th",
+      "stage": "The Glade"
+    },
+    {
+      "artist": "Lola Young",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "London Community Gospel Choir",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Lorraine Nash",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Louis Dunford",
+      "day": "day TBC",
+      "stage": "Other Stage"
+    },
+    {
+      "artist": "Loyle Carner",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Lucy Dacus",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Maribou State",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Michael Rosen",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Michele Stodart",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Morgan Seatree",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Mr C",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "MY BABY",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Myles Smith",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Nadia Reid",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Neil Young And The Chrome Hearts",
+      "day": "Sat 28th",
+      "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "Nick Lowe",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Nick Lowe",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Nil\u00fcfer Yanya",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Nile Rodgers and CHIC",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Noah Kahan",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Norah Jones",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Not Completely Unknown A Celebration of the Songs of Bob Dylan with special guests",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Nova Twins",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Oisin Leech",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Old Time Sailors",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "day": "Sun 29th",
+      "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "Orla Gartland",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Osees",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Our Man In The Field",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Overmono",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Pa Salieu",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Papaphone",
+      "day": "day TBC",
+      "stage": "Lost Horizon Stage"
+    },
+    {
+      "artist": "Paramore",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Parcels",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Paris Paloma",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Pawsa",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Pinkpantheress",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "PP Arnold",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Public Service Broadcasting",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Pulp",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Raye",
+      "day": "Sat 28th",
+      "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "Rhiannon Giddens with Dirk Powell",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Rhythm Of The 90s",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Rod Stewart",
+      "day": "Sun 29th",
+      "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "Roy Harper",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Royel Otis",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Rumba De Bodas",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Sam Ryder",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Scissor Sisters",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Self Esteem",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Shaboozey",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Shed Seven",
+      "day": "day TBC",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Skeptic",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Skerryvore",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Snow Patrol",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Sophie B. Hawkins",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Sports Team",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Sprints",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "St Vincent",
+      "day": "Sun 29th",
+      "stage": "Woodsies"
+    },
+    {
+      "artist": "Stephen Wilson Jr.",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Supergrass",
+      "day": "Fri 27th",
+      "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "Supergrass",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Talisk",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Terrorvision",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Thandii",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "The 1975",
+      "day": "Fri 27th",
+      "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "The Amy Winehouse Band",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "The Big Moon",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "The Big Moon",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Bluebells",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "The Bootleg Beatles",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "The Brian Jonestown Massacre",
+      "day": "Sun 29th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "The Coronas",
+      "day": "Sat 28th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "The Fratellis",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "The Henry Girls",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "The Horne Section",
+      "day": "Sun 29th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "The Libertines",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Maccabees",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Magic Numbers",
+      "day": "Fri 27th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "The Magic Numbers",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Prodigy",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Riptide Movement",
+      "day": "Sun 29th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "The Script",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Searchers",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "The Selecter",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Tiesto",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Tift Merritt",
+      "day": "Fri 27th",
+      "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Tom Odell",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Tom Walker",
+      "day": "Sat 28th",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Turnstile",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "TV on the Radio",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Vieux Farka Toure",
+      "day": "Fri 27th",
+      "stage": "West Holts"
+    },
+    {
+      "artist": "Weezer",
+      "day": "Sat 28th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Wet Leg",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Wolf Alice",
+      "day": "Sun 29th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Wunderhorse",
+      "day": "Fri 27th",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Yussef Dayes",
+      "day": "Sat 28th",
+      "stage": "West Holts"
+    }
+  ]
+}
