@@ -26,6 +26,7 @@
     "eslint-config-next": "15.2.4",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
+    "openai": "^4.91.1",
     "papaparse": "^5.5.2",
     "spotify-web-api-node": "^5.0.2",
     "string-similarity": "^4.0.4",
