@@ -9,6 +9,8 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     clientSecret: process.env.SPOTIFY_CLIENT_SECRET!,
   });
 
-  const authorizeURL = spotifyApi.createAuthorizeURL(scopes, '');
+  const state = Math.random().toString(36).substring(2, 15);
+  const authorizeURL = spotifyApi.createAuthorizeURL(scopes, state);
+
   res.redirect(authorizeURL);
 }

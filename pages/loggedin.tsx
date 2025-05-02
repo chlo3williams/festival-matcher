@@ -1,25 +1,22 @@
 import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
 
+import { useSpotifyAuth } from "@/hooks/useSpotifyAuth";
 import { Artist } from "@/types/artist";
-import FestivalInput from "@/components/FestivalInput";
 import { FestivalLineup } from "@/types/festival";
-import { matchFestivalArtists } from "@/utils/matchArtists";
-import Recommendations from "@/components/Recommendations";
+import { RecommendationWithDay } from "@/types/recommendation";
 import DayFilter from "@/components/DayFilter";
+import FestivalInput from "@/components/FestivalInput";
 import MatchCard from "@/components/MatchCard";
 import RecommendationCard from "@/components/RecommendationCard";
-import { Recommendation, RecommendationWithDay } from "@/types/recommendation";
+import Recommendations from "@/components/Recommendations";
 import { attachDayToRecommendations } from "@/helpers/attachDayToRecommendation";
+import { matchFestivalArtists } from "@/utils/matchArtists";
 
 export default function LoggedInPage() {
   const router = useRouter();
 
-  const handleLogout = () => {
-    router.push("/");
-  };
-
-  const { access_token } = router.query;
+  const { accessToken, fetchWithAuth, logout } = useSpotifyAuth();
 
   const [artists, setArtists] = useState<Artist[]>([]);
   const [lineup, setLineup] = useState<FestivalLineup[]>([]);
@@ -33,14 +30,16 @@ export default function LoggedInPage() {
 
   // Fetch Spotify top artists
   useEffect(() => {
-    if (!access_token) return;
+    if (!accessToken) return;
+  
+    const getTopArtists = async () => {
+      const data = await fetchWithAuth("/api/top-artists");
+      setArtists(data.artists || []);
+    };
+  
+    getTopArtists();
+  }, [accessToken]);
 
-    fetch(`/api/top-artists?token=${access_token}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setArtists(data.artists || []);
-      });
-  }, [access_token]);
 
   // Match artists with festival lineup
   useEffect(() => {
@@ -55,7 +54,7 @@ export default function LoggedInPage() {
   return (
     <>
       <button
-        onClick={handleLogout}
+        onClick={logout}
         className="fixed top-4 right-4 px-3 py-2 bg-red-500 text-white text-sm rounded hover:bg-red-600 shadow-md z-50"
       >
         Logout
