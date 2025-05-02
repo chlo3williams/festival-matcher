@@ -10,8 +10,10 @@ import FestivalInput from "@/components/FestivalInput";
 import MatchCard from "@/components/MatchCard";
 import RecommendationCard from "@/components/RecommendationCard";
 import Recommendations from "@/components/Recommendations";
+import ScheduleModal from "@/components/ScheduleModal";
 import { attachDayToRecommendations } from "@/helpers/attachDayToRecommendation";
 import { matchFestivalArtists } from "@/utils/matchArtists";
+import TopArtists from "@/components/TopArtists";
 
 export default function LoggedInPage() {
   const router = useRouter();
@@ -24,24 +26,25 @@ export default function LoggedInPage() {
   const [recommendations, setRecommendations] = useState<RecommendationWithDay[]>([]);
   const [showRecommendations, setShowRecommendations] = useState(false);
   const [selectedDay, setSelectedDay] = useState<string>("");
+  const [schedule, setSchedule] = useState<FestivalLineup[]>([]);
+  const [showSchedule, setShowSchedule] = useState(false);
 
   const filteredMatches = matches.filter((match) => !selectedDay || match.day === selectedDay);
   const filteredRecommendations = recommendations.filter((rec) => !selectedDay || rec.day === selectedDay);
 
-  // Fetch Spotify top artists
-  useEffect(() => {
-    if (!accessToken) return;
-  
-    const getTopArtists = async () => {
-      const data = await fetchWithAuth("/api/top-artists");
-      setArtists(data.artists || []);
-    };
-  
-    getTopArtists();
-  }, [accessToken]);
+  const addToSchedule = (artist: FestivalLineup) => {
+    setSchedule((prev) => {
+      const exists = prev.some((item) => item.artist === artist.artist && item.day === artist.day);
+      return exists ? prev : [...prev, artist];
+    });
+  };
 
+  const removeFromSchedule = (artistToRemove: FestivalLineup) => {
+    setSchedule((prev) =>
+      prev.filter((item) => !(item.artist === artistToRemove.artist && item.day === artistToRemove.day))
+    );
+  };
 
-  // Match artists with festival lineup
   useEffect(() => {
     console.log("Matching triggered!", artists.length, lineup.length);
     if (artists.length && lineup.length) {
@@ -52,7 +55,7 @@ export default function LoggedInPage() {
   }, [artists, lineup]);
 
   return (
-    <>
+    <div>
       <button
         onClick={logout}
         className="fixed top-4 right-4 px-3 py-2 bg-red-500 text-white text-sm rounded hover:bg-red-600 shadow-md z-50"
@@ -60,24 +63,35 @@ export default function LoggedInPage() {
         Logout
       </button>
       <div className="flex flex-col items-center h-screen bg-[rgb(255,244,223)]">
-        <img src="/logo.png" alt="Festival Matcher Logo" className="w-1/8 h-auto" />
+        <img src="/logo.png" alt="Festival Matcher Logo" className="w-1/5 h-auto" />
         <h1>You are now logged in!</h1>
+
+        <button
+          onClick={() => setShowSchedule(true)}
+          className="fixed top-4 right-24 px-3 py-2  bg-gray-500 hover:bg-gray-600 text-white text-sm rounded shadow-md z-50"
+        >
+          My Schedule
+        </button>
+        {accessToken && <TopArtists accessToken={accessToken} onFetched={setArtists} />}
+
         <FestivalInput onLineupParsed={setLineup} />
 
-        <h2 className="mb-2">Your personalised Spotify matches:</h2>
+        <h2 className="mt-4">Your personalised Spotify matches:</h2>
         {matches.length === 0 ? (
           <p>No matches yet — pick a lineup!</p>
         ) : (
           <>
-            <DayFilter
-              days={[...new Set([...matches.map((m) => m.day), ...recommendations.map((r) => r.day)])]}
-              selectedDay={selectedDay}
-              onChange={setSelectedDay}
-            />
+            <div className="mt-2">
+              <DayFilter
+                days={[...new Set([...matches.map((m) => m.day), ...recommendations.map((r) => r.day)])]}
+                selectedDay={selectedDay}
+                onChange={setSelectedDay}
+              />
+            </div>
 
             <div className="grid gap-4 mt-4 sm:grid-cols-2">
               {filteredMatches.map((match, i) => (
-                <MatchCard key={i} {...match} />
+                <MatchCard key={i} {...match} onAddToSchedule={addToSchedule} />
               ))}
             </div>
 
@@ -86,7 +100,7 @@ export default function LoggedInPage() {
                 <h2 className="mt-8">Smart Recommendations:</h2>
                 <div className="mt-8 grid gap-4 sm:grid-cols-2 mr-6 ml-6">
                   {filteredRecommendations.map((rec, i) => (
-                    <RecommendationCard key={i} {...rec} />
+                    <RecommendationCard key={i} {...rec} onAddToSchedule={addToSchedule} />
                   ))}
                 </div>
               </>
@@ -105,6 +119,14 @@ export default function LoggedInPage() {
           />
         )}
       </div>
-    </>
+      {showSchedule && (
+        <ScheduleModal
+          schedule={schedule}
+          onClose={() => setShowSchedule(false)}
+          onRemoveFromSchedule={removeFromSchedule}
+        />
+      )}
+      <div />
+    </div>
   );
 }

@@ -62,10 +62,9 @@ export default function FestivalInput({ onLineupParsed }: Props) {
   };
   return (
     <div className="text-center">
-      <p className="m-4">Choose a festival lineup from the list or upload your own CSV or JSON file.</p>
       <label className="block">
         Choose a festival:
-        <select className="border-1 m-2 rounded" value={selectedFestival} onChange={handlePresetSelect}>
+        <select className="border-1 m-4 rounded" value={selectedFestival} onChange={handlePresetSelect}>
           <option value="">--Select a Festival --</option>
           {Object.keys(presetLineups).map((festival) => (
             <option key={festival} value={festival}>
@@ -73,12 +72,6 @@ export default function FestivalInput({ onLineupParsed }: Props) {
             </option>
           ))}
         </select>
-      </label>
-
-      <input type="file" accept=".csv, .json" onChange={handleFileUpload} id="file-upload" className="hidden" />
-
-      <label htmlFor="file-upload" className="text-blue-400 text-sm underline cursor-pointer mb-4 inline-block">
-        (Or upload a custom CSV or JSON file)
       </label>
     </div>
   );
