@@ -7,6 +7,8 @@ import tramlines2025Data from "../data/tramlines2025.json";
 
 type Props = {
   onLineupParsed: (lineup: FestivalLineup[]) => void;
+  selectedFestival: string;
+  setSelectedFestival: (festival: string) => void;
 };
 
 const glastonbury2025: FestivalLineup[] = glastonbury2025Data.lineup;
@@ -17,8 +19,7 @@ const presetLineups: Record<string, FestivalLineup[]> = {
   "Tramlines 2025": tramlines2025,
 };
 
-export default function FestivalInput({ onLineupParsed }: Props) {
-  const [selectedFestival, setSelectedFestival] = usePersistentState<string>("selected_festival_name", "");
+export default function FestivalInput({ onLineupParsed, selectedFestival, setSelectedFestival }: Props) {
 
   useEffect(() => {
     if (selectedFestival && presetLineups[selectedFestival]) {

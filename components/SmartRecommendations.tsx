@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { track } from '@vercel/analytics';
+import { useState, useEffect } from "react";
+import { track } from "@vercel/analytics";
 import { usePersistentState } from "@/hooks/usePersistentState";
 import { Artist } from "@/types/artist";
 import { FestivalLineup } from "@/types/festival";
@@ -13,9 +13,16 @@ type Props = {
 };
 
 export default function SmartRecommendations({ topArtists, lineup, onRecommendationsFetched, hasMatches }: Props) {
+  const [isMounted, setIsMounted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [requestsLeft, setRequestsLeft] = usePersistentState<number>("festival_requests_left", 3);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+
+  if (!isMounted) return null;
 
   const fetchRecommendations = async () => {
     if (requestsLeft <= 0) {
@@ -27,7 +34,7 @@ export default function SmartRecommendations({ topArtists, lineup, onRecommendat
     setError("");
 
     try {
-      track('Smart Recommendations Click', {
+      track("Smart Recommendations Click", {
         topArtistsCount: topArtists.length,
         lineupCount: lineup.length,
         userHasMatches: hasMatches,

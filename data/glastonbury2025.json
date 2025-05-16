@@ -1,14 +1,89 @@
 {
   "lineup": [
     {
-      "artist": "Abel Selaocoe & the Bantu Ensemble",
+      "artist": "4am Kru",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "A for Alpha",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "A Guy Called Gerald + The Jungle Drummer (Live)",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "A Little Sound",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "A Little Sound",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "A Midsummer Night’s Dream",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "A. G. Cook",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Abandoman",
+      "day": "Sun 29th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Abel Selaocoe &amp; the Bantu Ensemble",
       "day": "Sun 29th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Accordion Ryan",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "acoustic open mic",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Adiel",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Adriatique",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Aerial Runway",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Afrodelic",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
     },
     {
       "artist": "AJ Tracey",
       "day": "Sun 29th",
       "stage": "Woodsies"
+    },
+    {
+      "artist": "AJ Tracey",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
     },
     {
       "artist": "Alabama 3",
@@ -21,9 +96,79 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Alex Jones",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Alex Mills",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Alexis Taylor (Hot Chip)",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Allyxpress",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Almass Badat",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Altern 8",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Altern 8 – (Rave Classics)",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
       "artist": "Amaarae",
       "day": "Sat 28th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Amaliah",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Amateurism",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Ambient Gaza",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Amelie Lens",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Amelie Lens",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Aminadabu Presents: Flame of Hope",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Amy Kisnorbo B2B MJK",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
     },
     {
       "artist": "Amyl And The Sniffers",
@@ -32,18 +177,78 @@
     },
     {
       "artist": "Ani DiFranco",
-      "day": "Fri 27th",
-      "stage": "Acoustic Stage"
+      "day": "day TBC",
+      "stage": "Block9 - The Meat Rack"
+    },
+    {
+      "artist": "Anil",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Anil B2B Suchi B2B Vnee",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
     },
     {
       "artist": "Annie Mac",
       "day": "day TBC",
-      "stage": "Stage TBC"
+      "stage": "Unfairground"
     },
     {
       "artist": "Anohni And The Johnsons",
+      "day": "Sat 28th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Antony Szimerek",
       "day": "Fri 27th",
-      "stage": "Stage TBC"
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Anything but Becky",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Anz",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Aph",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Appetite",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Aran Cherkez",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Arielle Free",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Arlo",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Arthi",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Arushi Jain",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
     },
     {
       "artist": "Ash",
@@ -51,9 +256,84 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "ATRIP",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Augustus (Lazlo Legezer)",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Aum Presents: The Electronic Diaspora",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Avalon Emerson",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Azadi.Mp3",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Álvarez Funk",
+      "day": "Sun 29th",
+      "stage": "Glasto Latino"
+    },
+    {
+      "artist": "Baalti",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Baby J",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Bad B!Tch Dubz",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
       "artist": "BadBadNotGood",
       "day": "Fri 27th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Badger",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Bakey B2B Sam Binga",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Bally Sagoo",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Bambie Thug",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Bambii",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Banco de Gaia",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
     },
     {
       "artist": "Banco de Gaia",
@@ -61,9 +341,24 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Bangus",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Barry Can’t Swim Presents: Earths Only Paradise",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
       "artist": "Basement Jaxx",
       "day": "Fri 27th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Bashy",
+      "day": "day TBC",
+      "stage": "Block9 - The NYC Downlow"
     },
     {
       "artist": "Basil Brush",
@@ -71,14 +366,49 @@
       "stage": "Kidz Field"
     },
     {
+      "artist": "Basil Brush",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Bawo",
+      "day": "Sun 29th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "BCUC",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Beabadoobee",
       "day": "Sat 28th",
       "stage": "Stage TBC"
     },
     {
-      "artist": "Bear\u2019s Den",
+      "artist": "Beans on Toast",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Bear’s Den",
       "day": "Sun 29th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Bel Cobain",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Ben Sims",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Berlioz",
+      "day": "Sat 28th",
+      "stage": "Block9 - IICON"
     },
     {
       "artist": "Bess Atwell",
@@ -91,9 +421,19 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Bianca Oblivion B2B Manami",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
       "artist": "Biffy Clyro",
       "day": "Fri 27th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Biig Piig",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
     },
     {
       "artist": "Billie Marten",
@@ -101,9 +441,54 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Billy Bragg",
+      "day": "Fri 27th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Binh B2B DJ Masda",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Bish B2b Diagnostix",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Black Country, New Road",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
       "artist": "Black Uhuru",
       "day": "Sun 29th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Blackhill",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Bladerunner B2b T&gt;i Fatman D",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Blamealex",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Blood of Aza",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Blooming",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
     },
     {
       "artist": "Blossoms",
@@ -111,9 +496,54 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Blossoms",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
       "artist": "Bob Vylan",
       "day": "Sat 28th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Bobby Friction",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Bones Tan Jones",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Booty Bass",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Born on Road Presents Visualise 3.0",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Bou &amp; Friends",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Bradley Zero",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Bradley Zero",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Bradley Zero",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
     },
     {
       "artist": "Brandi Carlile",
@@ -121,9 +551,64 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Brass Off",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Brava (Live PA)",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Brian Bilston",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Bricknasty",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Briefs",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Brighter Days (Live)",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Brighter Days Family",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Broken Pen",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
       "artist": "Brooke Combe",
       "day": "Sun 29th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Brownton Abbey",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Bullet Tooth B2b Silva Bumpa",
+      "day": "Sun 29th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Bumpah",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
     },
     {
       "artist": "Burning Spear",
@@ -132,23 +617,78 @@
     },
     {
       "artist": "Busta Rhymes",
-      "day": "Fri 27th",
-      "stage": "Stage TBC"
+      "day": "Sun 29th",
+      "stage": "Block9 - IICON"
     },
     {
-      "artist": "Ca7riel & Paco Amoroso",
+      "artist": "C.A.R.",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Ca7riel &amp; Paco Amoroso",
       "day": "Fri 27th",
       "stage": "West Holts"
     },
     {
+      "artist": "Ca7riel &amp; Paco Amoroso",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Calibre",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Calibre",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Camelphat",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Cami Layé Okún",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "Cami Layé Okún",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
       "artist": "Caribou",
-      "day": "Sat 28th",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Carl Cox &amp; Eric Powell's Mobile Disco Feat Julie McKnight",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Carl Cox - Mobile Disco",
+      "day": "day TBC",
       "stage": "Stage TBC"
     },
     {
-      "artist": "Carl Cox",
+      "artist": "Carlita",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Carly Wilford",
       "day": "day TBC",
-      "stage": "Stage TBC"
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Cash Only",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
     },
     {
       "artist": "Celeste",
@@ -156,14 +696,149 @@
       "stage": "Stage TBC"
     },
     {
-      "artist": "Charli XCX",
+      "artist": "Celtic Blue Rocker Recording Studio",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Changing Currents",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Channel One Sound System",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Chaos in the CBD",
       "day": "Sat 28th",
-      "stage": "Other Stage"
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Chaos in the CBD",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Charli XCX",
+      "day": "Sun 29th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Charlie Tee",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Charlie Tee Ft Savvy B",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Cheetah",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Cherub Sanson &amp; Tim Wheater",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Cheza Lucina",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Chicha Morada",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Chloè Robinson",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Chloé Caillet",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Chloe Caillet B2b Dj Tennis B2b Seth Troxler",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Chloe Foy",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Chloe Slater",
+      "day": "Sat 28th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Chris Watson",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Circus Fudge",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Climbing Wall",
+      "day": "Sat 28th",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
+      "artist": "Clipz B2b Dj Die",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Close Counters Ft. Sahra",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Club Fitness B2B Peach",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - The Levels"
     },
     {
       "artist": "Cmat",
-      "day": "Fri 27th",
-      "stage": "Stage TBC"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Coco María",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Coco Maria",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "Confidence Man (DJ)",
+      "day": "Sun 29th",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
+      "artist": "Conviktion",
+      "day": "Sat 28th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Copperdollar Collective",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
     },
     {
       "artist": "Corto.Alto",
@@ -171,19 +846,159 @@
       "stage": "West Holts"
     },
     {
-      "artist": "Cymande",
+      "artist": "Corto.Alto",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Craig Charles &amp; Friends",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Craig Richards",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Crazy P (DJ)",
       "day": "Sun 29th",
-      "stage": "West Holts"
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Crazy P (DJ)",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Crossy B2b Gray",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "CVC",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Cymande",
+      "day": "Fri 27th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Daddy Nature B2b Dj Dansey",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Daisy Moon B2B Lukas Wigflex",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Daisy Rickman",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Damian Lazarus",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Dan Shake",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Dancehall Generals",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Dani Whylie",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Daniel Avery",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Daniel Avery B2B Imogen",
+      "day": "day TBC",
+      "stage": "Glade Stage"
     },
     {
       "artist": "Danilo Plessow",
       "day": "Sun 29th",
-      "stage": "Stage TBC"
+      "stage": "Block9 - The NYC Downlow"
     },
     {
-      "artist": "Dawn Landes & Friends Perform the Liberated Woman\u2019s Songbook",
+      "artist": "Daphni",
+      "day": "Sat 28th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Darama",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Darama B2B Mahnoor B2B NadÄ«",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Das Brass",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Dave Harvey B2B Ivan Smagghe",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Dawn Landes &amp; Friends Perform the Liberated Woman’s Songbook",
       "day": "Sun 29th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Daytime Takeover – B.A.D: Aletha B2B Niks, Anz, Hutch, Ok Williams, Seb Odyssey",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Daytime Takeover – The Cause: D.Tiffany, Jerome Hill, Sedef Adasï, Spray, The Cause FM",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Daytime Takeover – War Child X Waterworks: Amaliah B2B Pearson Sound, Call Super B2B Shanti Celeste, CCL, Parris B2B Surusinghe",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Daytimers Family",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Dea Matrona Band",
+      "day": "day TBC",
+      "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Deep Dish",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Defected Records",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
     },
     {
       "artist": "Deftones",
@@ -191,9 +1006,44 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Dele Sosimi",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Dele Sosimi Afrobeat Experience",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Demi Riquísimo",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Denham Audio B2b Rebekah Abdeen",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
       "artist": "Denzel Curry",
       "day": "Fri 27th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Desta French",
+      "day": "day TBC",
+      "stage": "Block9 - The Meat Rack"
+    },
+    {
+      "artist": "Desta French Presents: Latinas of London’",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Devolicious!",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
     },
     {
       "artist": "Dhani Harrison",
@@ -201,9 +1051,124 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Dinomania",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Dismantle",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Dizraeli X Joy Machine",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "DJ Bilska",
+      "day": "day TBC",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
+      "artist": "DJ Boring B2B DJ Seinfeld",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Dj Cheeba (Av)",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "DJ Chris Tofu",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "DJ Chris Tofu and Friends",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "DJ Cosworth",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "DJ Die",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "DJ Die: Too Late To Turn Back [1990-2025]",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "DJ Doll",
+      "day": "day TBC",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
+      "artist": "DJ EZ",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "DJ Hiphoppapotamus",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "DJ K Swizz",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "DJ Lag",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "DJ Paulette",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Dj Rehmidi",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "DJ Relocate",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Dj Snuff",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "DJ Tennis &amp; Ashee Pres. Tenashee (Live)",
+      "day": "Sun 29th",
+      "stage": "Block9 - IICON"
+    },
+    {
       "artist": "Djo",
       "day": "Sun 29th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Djo",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "DN0",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
     },
     {
       "artist": "Doechii",
@@ -211,9 +1176,159 @@
       "stage": "West Holts"
     },
     {
+      "artist": "Dog Show",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Dogger",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Dogshow",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Dogshow",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Don Letts",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Don Letts DJ Set",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Don Letts DJ Set",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Don Marshall",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Dope Ammo B2b Jimbitch",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Dr Banana",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Dr Banana B2B Melody",
+      "day": "Sun 29th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Dr Dubplate",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Dream Symposium",
+      "day": "Fri 27th",
+      "stage": "Mandala Stage"
+    },
+    {
+      "artist": "Dream Symposium",
+      "day": "Sat 28th",
+      "stage": "Mandala Stage"
+    },
+    {
+      "artist": "Dresden (Ivan Smagghe &amp; Manfredas)",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Drifty",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "DRS",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Du Blonde",
+      "day": "Sun 29th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Dual Monitor",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Duncan Disorderly",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
       "artist": "Duran Duran",
       "day": "day TBC",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Dyed Soundorom",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "El Búho",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Electric Jalaba",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Eli Brown",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Eliza Rose",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Ellie Prohan",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Elliott Schooling",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Elvana",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Emma Jean-Thackray (Live)",
+      "day": "Sat 28th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Emma-Jean Thackray",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
     },
     {
       "artist": "En Vogue",
@@ -226,19 +1341,59 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Enzo Siragusa B2B Willow",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Erol Alkan",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Ewan Mcvicar",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Example",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Ezra Collective",
       "day": "Sat 28th",
       "stage": "Stage TBC"
     },
     {
+      "artist": "Fabio &amp; Grooverider",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Farm Yard Circus",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
       "artist": "Fat Dog",
       "day": "day TBC",
-      "stage": "Woodsies"
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Fatboy Slim",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
     },
     {
       "artist": "Fatboy Slim",
       "day": "Fri 27th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Fatboy Slim",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "Father John Misty",
@@ -251,9 +1406,34 @@
       "stage": "Stage TBC"
     },
     {
-      "artist": "F\u00fcl\u00fc",
+      "artist": "Fülü",
       "day": "Sat 28th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Fcukers",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Felix Mufti",
+      "day": "Sun 29th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Fila Brazillia (DJ)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Fishs56octagon",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Fizzy Gillespie",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "FKA Twigs",
@@ -261,9 +1441,24 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Fladam",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
       "artist": "Fladam Theatre",
       "day": "day TBC",
-      "stage": "Theatre & Circus"
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Flo &amp; Joan",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Flo Dill",
+      "day": "day TBC",
+      "stage": "San Remo"
     },
     {
       "artist": "Floating Points",
@@ -271,9 +1466,39 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Floating Points",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Flood &amp; Friends",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Folk n Ether",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Fortuni &amp; Fae",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
       "artist": "Four Tet",
       "day": "Fri 27th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Four Tet",
+      "day": "Sat 28th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Frankie Stew &amp; Harvey Gunn",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
     },
     {
       "artist": "Franz Ferdinand",
@@ -281,9 +1506,39 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Freddie Bad",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Frente Cumbiero",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Frente Cumbiero",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "FS Green",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Fuse Takeover: Enzo Siragusa, Laidlaw, Rossi",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
       "artist": "Future Islands",
       "day": "Sun 29th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "G33",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Gabrielle Aplin",
@@ -291,9 +1546,39 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Garöess",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Gardna: Time To Move",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Gary Numan",
-      "day": "Sat 28th",
-      "stage": "Stage TBC"
+      "day": "Thu 26th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Gemma Rogers",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "George Daniel",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Georgia B2B Keefy G",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Getdown Services",
+      "day": "Sun 29th",
+      "stage": "Block9 - The NYC Downlow"
     },
     {
       "artist": "girl in red",
@@ -301,9 +1586,14 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Girlband!",
+      "day": "Sat 28th",
+      "stage": "Left Field"
+    },
+    {
       "artist": "Glass Beams",
-      "day": "Fri 27th",
-      "stage": "West Holts"
+      "day": "Sun 29th",
+      "stage": "Arcadia"
     },
     {
       "artist": "Goat",
@@ -311,14 +1601,54 @@
       "stage": "West Holts"
     },
     {
+      "artist": "Gold Dubs",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Goldie",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
       "artist": "Goldie",
       "day": "day TBC",
-      "stage": "The Glade"
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Goldie",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Good Block",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "GQ",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "Gracie Abrams",
-      "day": "Fri 27th",
-      "stage": "Stage TBC"
+      "day": "day TBC",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
+      "artist": "grandson",
+      "day": "Sun 29th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Gray",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Greenness",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
     },
     {
       "artist": "Greentea Peng",
@@ -331,9 +1661,64 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Groove Armada (DJ)",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Grove (DJ)",
+      "day": "Sat 28th",
+      "stage": "Arcadia"
+    },
+    {
       "artist": "Gurriers",
       "day": "day TBC",
-      "stage": "Left Field"
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Gurriers",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Gwenno",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Gyroscope",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "HAAi",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "HAAi",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Hak Baker",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Hamish &amp; Toby",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Hannah Holland",
+      "day": "Sat 28th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Hannah Wants",
+      "day": "Sat 28th",
+      "stage": "Arcadia"
     },
     {
       "artist": "Hard-Fi",
@@ -341,9 +1726,79 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "Hardcore Energy Takeover: Cheff The Boy B2b Anna Prank, Origin8a &amp; Propa B2b Toby Ross, Silva Snipa B2b Hypershé",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Harri Pepper",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Haseeb Iqbal",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Haseeb Iqbal",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Haseeb Iqbal B2B Nabihaq Iqbal",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Havana D’Primera",
+      "day": "Fri 27th",
+      "stage": "Glasto Latino"
+    },
+    {
+      "artist": "Heidi Lawden",
+      "day": "Thu 26th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Henning Wehn",
+      "day": "day TBC",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
       "artist": "Henry Grace",
       "day": "Sat 28th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Hinako Omori",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Hippo &amp; Friends Ft Aziza Jaye",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Hitech",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Hitech",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Hodge B2B Ploy",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Holly Hutch",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
     },
     {
       "artist": "Hothouse Flowers",
@@ -356,9 +1811,54 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Humble the Great",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Hunee",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Hybrid Minds",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "I Am Fya",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "I Love Acid",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "IAMDDB B2B Yxng Cptn",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Imanu B2b Thys",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Indy",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
       "artist": "Infinity Song",
       "day": "Sat 28th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Inflatable Assault Course",
+      "day": "day TBC",
+      "stage": "Kidz Field"
     },
     {
       "artist": "Inhaler",
@@ -366,9 +1866,69 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Insane Magic",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Interactivo",
+      "day": "Sat 28th",
+      "stage": "Glasto Latino"
+    },
+    {
+      "artist": "Interplanetary Criminal B2B Kettama",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Ion Ludwig (Live)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Isaac Carter",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Ishmael Ensemble",
+      "day": "Sat 28th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Ivan Black B2b Holotronica Vjs",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Ivicore",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Ivicore",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Izco Ft Liam Bailey (Live)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Jabberistan",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
       "artist": "Jade",
       "day": "Sat 28th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Jade",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
     },
     {
       "artist": "Jade Bird",
@@ -376,9 +1936,54 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "Jael",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Jael",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Jaguar",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Jak &amp; Eli",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Jakes",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Jamie Cullum",
       "day": "Sat 28th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Jammer",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Jamu",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Jamz Supernova",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Jamz Supernova B2B Shy One",
+      "day": "day TBC",
+      "stage": "Glade Dome"
     },
     {
       "artist": "Japanese Breakfast",
@@ -386,19 +1991,84 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Jarreau Vandal",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Jasmine.4.T",
+      "day": "Fri 27th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Jayahadadream",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Jazzi Sirius",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Jehnny Beth (Savages) DJ Set",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Jeremy Loops",
-      "day": "Sat 28th",
-      "stage": "Acoustic Stage"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Jimena Angel",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Jimena Angel",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Job Jobse",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Job Jobse",
+      "day": "day TBC",
+      "stage": "San Remo"
     },
     {
       "artist": "Joe Goddard (Hot Chip)",
+      "day": "Fri 27th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Joel M",
       "day": "day TBC",
-      "stage": "Stage TBC"
+      "stage": "Kidz Field"
     },
     {
       "artist": "John Fogerty",
-      "day": "Sat 28th",
-      "stage": "Stage TBC"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "John Talabot",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Joli Blon",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Jolie P",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
     },
     {
       "artist": "Jon Hopkins",
@@ -406,14 +2076,119 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Jon Hopkins – Embodiment Breathing",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Jonny Banger",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Jordss",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Jorg Kuning",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
       "artist": "Jorja Smith",
       "day": "Sun 29th",
       "stage": "Stage TBC"
     },
     {
+      "artist": "Jorja Smith",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Josh Baker",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Josh Parkinson",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Josh Tweek",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Joshua Idehen",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Joy (Anonymous) Joyous People",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
       "artist": "Joy Crookes",
       "day": "Sun 29th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Joy Orbison",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Joy Orbison",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Juan Atkins",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Jungle (DJ)",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Junior Jungle",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Junk Jodie",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Jyoty",
+      "day": "Sun 29th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "K Klass",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "K.O.G",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "K.O.G",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "K.O.G",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "Kae Tempest",
@@ -426,9 +2201,24 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Kaisha B2b A-star B2b Rusty",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Kamasi Washington",
       "day": "day TBC",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kara",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Karlie Marx",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
     },
     {
       "artist": "Kasabian",
@@ -436,9 +2226,104 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Kasra",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Katayanagi Twins",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Kate Nash",
+      "day": "Sat 28th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Katy B Live",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Katy J Pearson",
       "day": "Sun 29th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Kearun",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Keke",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Kelly Lee Owens B2b Daniel Avery",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Kelvin 373 Ft. Carasel",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "KI/KI",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Kianna",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Kid Blu3",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Kilimanjaro",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Killabeat Maker",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Kimmy Beatbox",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Kiss Nuka",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Kitty Amor",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Kizzi",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Kizzi B2B Manara B2B Raji Rags",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Klose One",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
     },
     {
       "artist": "Kneecap",
@@ -446,19 +2331,149 @@
       "stage": "West Holts"
     },
     {
+      "artist": "Kneecap",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Kool Keith aka Dr Octagon",
       "day": "day TBC",
       "stage": "Stage TBC"
     },
     {
+      "artist": "Koven",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Kyma",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Kyma",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "La La",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "La La",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Lady Shaka",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Lady Shaka Presents Pacifika Takeover",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Laidlaw B2B TBA",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Lambrini Girls",
+      "day": "Sat 28th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Larizzle",
+      "day": "Thu 26th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Latinas of London",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Laura Misch",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Laura, Alex &amp; Warrick",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Lauren Lo Sung",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Lazy Habits",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Leftfield",
       "day": "Sat 28th",
-      "stage": "The Glade"
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Leftfield",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Lens",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Leo Baby",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Leon Vynehall",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Leon Vynehall Presents: Warm Romantic",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Lewis Fitzgerald",
+      "day": "Sat 28th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Liam Palmer",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Little Kidz Area",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Local",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Lola Young",
       "day": "Fri 27th",
-      "stage": "Stage TBC"
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Lola Young",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
     },
     {
       "artist": "London Community Gospel Choir",
@@ -466,9 +2481,19 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "London Trans+ Pride &amp; the Chateau Takeover",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
       "artist": "Lorraine Nash",
       "day": "Sat 28th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Lotus Phaze",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
     },
     {
       "artist": "Louis Dunford",
@@ -476,9 +2501,49 @@
       "stage": "Other Stage"
     },
     {
+      "artist": "Love Cats",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "LowQui",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Loyle Carner",
       "day": "Fri 27th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "LSB + DRS Present Space Age",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "LTJ Bukem",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Lu.Re",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Luca Lozano",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Lucie Jones",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Lucy Cook",
+      "day": "day TBC",
+      "stage": "Glade Dome"
     },
     {
       "artist": "Lucy Dacus",
@@ -486,9 +2551,219 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Luke Una",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Lula Mebrahtu",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Luvcat",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Lyáàlù",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Lyrix Organix Tkover",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Macca",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Madalitso Band",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Mahnoor",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Maj!c",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Major League DJz",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Malcura",
+      "day": "Sat 28th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Malugi",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Manami",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Manara",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Mandidextrous",
+      "day": "day TBC",
+      "stage": "Block9 - The Meat Rack"
+    },
+    {
+      "artist": "Manuel Darquart B2b Wasted Space",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Marc Rebillet",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Marc Stylus",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "Margaret Dygas",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
       "artist": "Maribou State",
       "day": "Fri 27th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Maribou State Dj Set",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Marie Davidson",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Marla Kether (DJ Set)",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Marlie B2B Pach. B2B Locky",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Marshall Jefferson",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Mary Anne Hobbs &amp; Anna Phoebe",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Marysia Osu",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Mas Tiempo",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Mathew Jonson (live)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Mathew Jonson Presents: Freedom Engine",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Maverick Sabre",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Max Cooper",
+      "day": "Fri 27th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Max Cooper",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Maya Jane Coles",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "MC Chickaboo",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Mc Grammar",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Mc Yallah &amp; Debmaster",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Mela Sounds",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Mera Bhai",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Mercedes Benson",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Mermaid Chunky",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Mia Koden",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Michael Rosen",
+      "day": "Sat 28th",
+      "stage": "Arcadia"
     },
     {
       "artist": "Michael Rosen",
@@ -501,9 +2776,49 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Mina Galan",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Miss Mash",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Miszm",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "MJ Cole Presents: Sincere",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Mobo Unsung Presents: Keedz, Mar!k &amp; Siobhan Élouise",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Modeselektor (DJ)",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Mokotron",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
       "artist": "Morgan Seatree",
       "day": "day TBC",
-      "stage": "Stage TBC"
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Moxie",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Mr C",
@@ -511,9 +2826,24 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Mungo’s Hi-Fi Ft Special Guests",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Music with Mike",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "MY BABY",
       "day": "Sun 29th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Mya Mehmi",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Myles Smith",
@@ -521,9 +2851,74 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Myles Smith",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Nabihah Iqbal",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Nabihah Iqbal (DJ)",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Nadi",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
       "artist": "Nadia Reid",
       "day": "Fri 27th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Nadine Noor",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Nafs",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Naina",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Naina B2B Rea B2B Skeptic",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Nancy Williams",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Naomi Wood",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Napes B2b Samurai Breaks",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Natty Speaks",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Neffa-T B2B Plastician (140 Set)",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
     },
     {
       "artist": "Neil Young And The Chrome Hearts",
@@ -531,9 +2926,29 @@
       "stage": "Pyramid Stage"
     },
     {
+      "artist": "Newen Afrobeat",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Newen Afrobeat",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Newen Afrobeat",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Ngaio",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
       "artist": "Nick Lowe",
-      "day": "Sat 28th",
-      "stage": "Acoustic Stage"
+      "day": "Sun 29th",
+      "stage": "Block9 - IICON"
     },
     {
       "artist": "Nick Lowe",
@@ -541,9 +2956,9 @@
       "stage": "Stage TBC"
     },
     {
-      "artist": "Nil\u00fcfer Yanya",
-      "day": "Sat 28th",
-      "stage": "West Holts"
+      "artist": "Nilüfer Yanya",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Nile Rodgers and CHIC",
@@ -556,9 +2971,44 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "NoFit State Circus",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Nohe",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Noisy Oyster",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Nooriyah",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
       "artist": "Norah Jones",
       "day": "day TBC",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Norsicaa",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Northsouth (Dale Mussington, Harry McCanna &amp; Sam Bangura)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "NorthSouth: Heading East",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
     },
     {
       "artist": "Not Completely Unknown A Celebration of the Songs of Bob Dylan with special guests",
@@ -566,14 +3016,69 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Notion",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Notting Hill Carnival Procession",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Nova Twins",
       "day": "Sat 28th",
       "stage": "Stage TBC"
     },
     {
+      "artist": "Nova Twins",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Numa Crew",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Numa Crew &amp; Killa P",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "O.b.f Sound System",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Oakley Starr",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Oblig B2B Sir Hiss",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Ochi",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Off Yellow",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Oisin Leech",
       "day": "Sat 28th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "OKO",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "Old Time Sailors",
@@ -586,9 +3091,39 @@
       "stage": "Pyramid Stage"
     },
     {
-      "artist": "Orla Gartland",
+      "artist": "Omega Nebula",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Opal Sunn",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Oppidan",
       "day": "Fri 27th",
-      "stage": "Field Of Avalon"
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Oppidan",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Orchestra Mambo International",
+      "day": "Fri 27th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Orchestra Mambo International",
+      "day": "Thu 26th",
+      "stage": "Glasto Latino"
+    },
+    {
+      "artist": "Orla Gartland",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Osees",
@@ -596,9 +3131,24 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Othered Presents Swana Takeover",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
       "artist": "Our Man In The Field",
-      "day": "Fri 27th",
-      "stage": "Acoustic Stage"
+      "day": "Thu 26th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Out Here Presents: Ice Thaw",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Outrage + Optimism feat. Greg Jackson &amp; Sarah Mukherjee",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
     },
     {
       "artist": "Overmono",
@@ -606,14 +3156,49 @@
       "stage": "West Holts"
     },
     {
+      "artist": "p-rallel",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
       "artist": "Pa Salieu",
       "day": "Sat 28th",
       "stage": "Stage TBC"
     },
     {
+      "artist": "Pa Salieu",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Palms Trax",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Panix Ft Lionpulse",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Panjabi Hit Squad",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Papa Nugs",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
       "artist": "Papaphone",
       "day": "day TBC",
       "stage": "Lost Horizon Stage"
+    },
+    {
+      "artist": "Paper Dragon",
+      "day": "day TBC",
+      "stage": "Glade Dome"
     },
     {
       "artist": "Paramore",
@@ -622,13 +3207,48 @@
     },
     {
       "artist": "Parcels",
-      "day": "Sun 29th",
-      "stage": "West Holts"
+      "day": "Sat 28th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Paree",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
     },
     {
       "artist": "Paris Paloma",
-      "day": "Fri 27th",
-      "stage": "Field Of Avalon"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Pascal Moscheni",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Paul's Mobile Disco",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "Paula Tape",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Paula Tape B2B Make A Dance",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Paurro",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Pawsa",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
     },
     {
       "artist": "Pawsa",
@@ -636,9 +3256,54 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Peng Banana",
+      "day": "Thu 26th",
+      "stage": "Block9 - Genosys"
+    },
+    {
+      "artist": "Phina",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Pinkpantheress",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
       "artist": "Pinkpantheress",
       "day": "Fri 27th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Pinkpantheress",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Pinky",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Pony Montana",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Popola",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Poppa Jax",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Posthuman",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
     },
     {
       "artist": "PP Arnold",
@@ -646,9 +3311,44 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Prah Recordings",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Primary School Bangers",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Prince Fatty Ft Liam Bailey (Live)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Princess Xixi",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Professor Panic’s Circus",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Propa Ammo Vs Uncommon Records – Dj Rap &amp; Dope Ammo Vs Resist &amp; Kleu Ft. Elizabeth Troy",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Prospa",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
       "artist": "Public Service Broadcasting",
       "day": "day TBC",
-      "stage": "Stage TBC"
+      "stage": "Block9 - The NYC Downlow"
     },
     {
       "artist": "Pulp",
@@ -656,9 +3356,54 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Putty Rubber (Av)",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Pxssy Palace",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Quantic (DJ Set)",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Queer House Party",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
       "artist": "Rachel Chinouriri",
-      "day": "Sat 28th",
-      "stage": "Field Of Avalon"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Radioactive Man (DJ)",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Rafiki",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Raji Rags",
+      "day": "Sun 29th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Ralph Lawson (Lost In Dub)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Randall Legacy Set",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "Raye",
@@ -666,9 +3411,54 @@
       "stage": "Pyramid Stage"
     },
     {
+      "artist": "REA",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Red Alert",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Red Riding Hood",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Red Rum Club",
+      "day": "Sun 29th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "Reptile B",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Resist &amp; Frd",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Reverend And The Makers",
+      "day": "Sun 29th",
+      "stage": "Left Field"
+    },
+    {
       "artist": "Rhiannon Giddens with Dirk Powell",
       "day": "Sun 29th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Rhubarb Theatre",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Rhythm Of The 90s",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
     },
     {
       "artist": "Rhythm Of The 90s",
@@ -676,14 +3466,79 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Richard Blackwood",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Richie Hawtin",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Rio Tashan",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Rio Tashan",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Riria",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Riz La Teef",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Rob Deering",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Robin Ince",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
       "artist": "Rod Stewart",
       "day": "Sun 29th",
       "stage": "Pyramid Stage"
     },
     {
+      "artist": "Rohan Rakhit",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Roi Perez",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Romy",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Roni Size",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Ross From Friends Presents: Bubble Love",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
       "artist": "Roy Harper",
-      "day": "Sun 29th",
-      "stage": "Acoustic Stage"
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Royel Otis",
@@ -691,9 +3546,104 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Roza Terenzi",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
+      "artist": "Roza Terenzi",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Rozsa",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Ru Robinson",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "RUBII",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Ruby Cross",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Ruby Throat",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Rudim3ntal",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Rum-joe Mallalieu",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
       "artist": "Rumba De Bodas",
       "day": "Fri 27th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "RWKUS Ft. MC Chickaboo",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Ryan Lanji",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Ryan Lovell",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Saba Kia",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Sally C",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Sally C B2b Swoose",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Salt",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Sam Binga B2b Bianca Oblivion",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Sam Divine",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Sam McCrory",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
     },
     {
       "artist": "Sam Ryder",
@@ -701,9 +3651,54 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "Sam Tomlins",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Sampha B2b Lil Silva B2b Oscar Farrell",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Saoirse",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Sasha Keable",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Savannah",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
       "artist": "Scissor Sisters",
-      "day": "Sat 28th",
-      "stage": "Stage TBC"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Scissor Sisters",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Seduction City Sound System",
+      "day": "day TBC",
+      "stage": "Block9 - The NYC Downlow"
+    },
+    {
+      "artist": "Seedhe Maut",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Selassie TBC",
+      "day": "day TBC",
+      "stage": "San Remo"
     },
     {
       "artist": "Self Esteem",
@@ -711,14 +3706,169 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Seoul Community Radio X Scream Records",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Sepia",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Seth Troxler",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Seth Troxler",
+      "day": "day TBC",
+      "stage": "Block9 - The Meat Rack"
+    },
+    {
       "artist": "Shaboozey",
       "day": "Sun 29th",
       "stage": "Stage TBC"
     },
     {
+      "artist": "Shadeda",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "Shades On (Wonka &amp; D.a.d)",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Shantel &amp; Bucovina Club",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "She's Got Brass",
+      "day": "day TBC",
+      "stage": "Block9 - The Meat Rack"
+    },
+    {
+      "artist": "She’s Got Brass and Friends",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Shed Seven",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
       "artist": "Shed Seven",
       "day": "day TBC",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Shemanic DJ",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "Sherelle",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Sherelle",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Shimmy Ahmed",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Shivum and Lagoona",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Shivum Sharma",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Shy FX",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Shy One",
+      "day": "Sun 29th",
+      "stage": "Arcadia"
+    },
+    {
+      "artist": "Shygirl Presents: Club Shy",
+      "day": "Sat 28th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Sicaria",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Sicaria",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Silke Pan",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Silly Science",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Simon Ruston",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Simula",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Singing with Nightingales: Sam Lee &amp; Axel Wild",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Sir Spyro B2b Just Jane",
+      "day": "Sun 29th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Sista Selecta",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Sisters of Percy",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Skantia",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Skepta B2B Mosknak B2B Carlita",
+      "day": "day TBC",
+      "stage": "Glade Stage"
     },
     {
       "artist": "Skeptic",
@@ -731,9 +3881,59 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Skinny Girl Diet",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Skream &amp; Benga",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Smash Hits",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Smith &amp; Mighty",
+      "day": "Sat 28th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Snapped Ankles",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Snapped Ankles",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Snow Patrol",
       "day": "Sun 29th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "So Good",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
+      "artist": "Somatic",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Sonido Tupinamba",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Sooyeon",
+      "day": "Fri 27th",
+      "stage": "Arcadia"
     },
     {
       "artist": "Sophie B. Hawkins",
@@ -741,9 +3941,34 @@
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "Sorry",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Sounds Queer's Big Gay Bash",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Special Request",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Sports Banger",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
       "artist": "Sports Team",
       "day": "day TBC",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Spray",
+      "day": "day TBC",
+      "stage": "The Park - Stonebridge"
     },
     {
       "artist": "Sprints",
@@ -751,9 +3976,29 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Sprints",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Spy",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "St Vincent",
-      "day": "Sun 29th",
-      "stage": "Woodsies"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "St Vincent",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Star Kidz",
+      "day": "day TBC",
+      "stage": "Kidz Field"
     },
     {
       "artist": "Stephen Wilson Jr.",
@@ -761,9 +4006,54 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "Steve Bedlam",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Steve Ignorant’s Slice of Life",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Storystock",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Strange Chaos",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Streamer",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Stuart Warren Hill (Av)",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "Suchi",
+      "day": "Sun 29th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Sukh Knight",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Sunday Sunday Djs",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
       "artist": "Supergrass",
-      "day": "Fri 27th",
-      "stage": "Pyramid Stage"
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Supergrass",
@@ -771,14 +4061,69 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Supplya Ft Jman",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Surusinghe",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "T&lt;I",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
       "artist": "Talisk",
       "day": "Sun 29th",
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "Tara Lily",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Tash LC",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Tasha",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Taskmaster",
+      "day": "day TBC",
+      "stage": "Theatre &amp; Circus"
+    },
+    {
+      "artist": "Tc &amp; The Groove Family",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Teletech Presents: Azyr, Faster Horses B2B Morgan Seatree, Sim0ne",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Tengger",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
       "artist": "Terrorvision",
       "day": "Fri 27th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "Thai Chi Rose",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
     },
     {
       "artist": "Thandii",
@@ -789,6 +4134,16 @@
       "artist": "The 1975",
       "day": "Fri 27th",
       "stage": "Pyramid Stage"
+    },
+    {
+      "artist": "The 45’s",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "The Amazons",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
     },
     {
       "artist": "The Amy Winehouse Band",
@@ -821,14 +4176,59 @@
       "stage": "West Holts"
     },
     {
+      "artist": "The Buzztastic Bee Circus",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The Cave",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
       "artist": "The Coronas",
       "day": "Sat 28th",
       "stage": "Acoustic Stage"
     },
     {
+      "artist": "The Countless Flea Circus",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The Disappointing Clown Company",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "The Disappointments",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "The Flying Seagull Project",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
       "artist": "The Fratellis",
       "day": "Fri 27th",
       "stage": "Field Of Avalon"
+    },
+    {
+      "artist": "The Guest List",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "The Halfway Kid",
+      "day": "Sun 29th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "The Helter Skelter",
+      "day": "day TBC",
+      "stage": "Kidz Field"
     },
     {
       "artist": "The Henry Girls",
@@ -841,9 +4241,19 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "The Kidzfield Muzikademy",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
       "artist": "The Libertines",
       "day": "Sun 29th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "The Light Surgeons Av",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
     },
     {
       "artist": "The Maccabees",
@@ -861,14 +4271,49 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "The Marching SKAletons",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "The Meffs",
+      "day": "Fri 27th",
+      "stage": "Left Field"
+    },
+    {
+      "artist": "The Ministry of Mini Musicals",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The Often Herd",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
+      "artist": "The Orb",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "The Point of Wasps",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
       "artist": "The Prodigy",
       "day": "Sun 29th",
       "stage": "Stage TBC"
     },
     {
+      "artist": "The Quartermasters",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Bandstand"
+    },
+    {
       "artist": "The Riptide Movement",
-      "day": "Sun 29th",
-      "stage": "Acoustic Stage"
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "The Script",
@@ -886,6 +4331,71 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "The Sound Collector",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The South",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "The Space Falcons",
+      "day": "Fri 27th",
+      "stage": "Mandala Stage"
+    },
+    {
+      "artist": "The Space Falcons",
+      "day": "Sat 28th",
+      "stage": "Mandala Stage"
+    },
+    {
+      "artist": "The Storytellers Lounge",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The Tower of Bubbleyon",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The World Famous Make ‘N’ Do Marquee",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "The Wran",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Thempress",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Third World",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Three Daft Monkeys",
+      "day": "Thu 26th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Three Daft Monkeys",
+      "day": "day TBC",
+      "stage": "Stage TBC"
+    },
+    {
+      "artist": "Three Thirty Three",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
       "artist": "Tiesto",
       "day": "day TBC",
       "stage": "Stage TBC"
@@ -894,6 +4404,21 @@
       "artist": "Tift Merritt",
       "day": "Fri 27th",
       "stage": "Acoustic Stage"
+    },
+    {
+      "artist": "Timbali &amp; Da Fuchaman",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Tiny K",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Tom Odell",
+      "day": "day TBC",
+      "stage": "Unfairground"
     },
     {
       "artist": "Tom Odell",
@@ -906,6 +4431,66 @@
       "stage": "Field Of Avalon"
     },
     {
+      "artist": "Tommy Holohan",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Town Of Cats",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Trapeze School",
+      "day": "day TBC",
+      "stage": "Kidz Field"
+    },
+    {
+      "artist": "Triple Threat",
+      "day": "day TBC",
+      "stage": "The Common - Rum Shack"
+    },
+    {
+      "artist": "Tristan Da Cunha B2B Brawther",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Tristan Tyom",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "Truffle 101 Presents: Lazy Susan (2Stepbec, Oliver.r, Zeus)",
+      "day": "day TBC",
+      "stage": "Glade Dome"
+    },
+    {
+      "artist": "Truth Tribe Party",
+      "day": "day TBC",
+      "stage": "The Common - Mez Yard"
+    },
+    {
+      "artist": "Tryb",
+      "day": "day TBC",
+      "stage": "Shangri-La (NOMAD)"
+    },
+    {
+      "artist": "TSHA",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - The Levels"
+    },
+    {
+      "artist": "Tunng",
+      "day": "day TBC",
+      "stage": "Glade Stage"
+    },
+    {
+      "artist": "Turno",
+      "day": "day TBC",
+      "stage": "Shangri-La"
+    },
+    {
       "artist": "Turnstile",
       "day": "Sun 29th",
       "stage": "Stage TBC"
@@ -916,9 +4501,64 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "TV on the Radio",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
+      "artist": "Ummi",
+      "day": "Fri 27th",
+      "stage": "Block9 - IICON"
+    },
+    {
+      "artist": "Un*Deux",
+      "day": "day TBC",
+      "stage": "Shangri-La (AZAADI)"
+    },
+    {
+      "artist": "Uncle Dugs",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
+    },
+    {
+      "artist": "UWOT",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Verraco",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Assembly"
+    },
+    {
       "artist": "Vieux Farka Toure",
       "day": "Fri 27th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Vintage Culture",
+      "day": "Fri 27th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Vixen Sound",
+      "day": "Sun 29th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Wallace",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Wata Igarashi",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Wax Material",
+      "day": "day TBC",
+      "stage": "Glade Dome"
     },
     {
       "artist": "Weezer",
@@ -926,9 +4566,49 @@
       "stage": "Stage TBC"
     },
     {
+      "artist": "Weezer",
+      "day": "day TBC",
+      "stage": "Woodsies - Main Stage"
+    },
+    {
       "artist": "Wet Leg",
       "day": "Fri 27th",
       "stage": "Stage TBC"
+    },
+    {
+      "artist": "Whale Song Bath: How to Be a Whale by Mustill &amp; Matossian",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Wheelup",
+      "day": "day TBC",
+      "stage": "Shangri-La (LORE)"
+    },
+    {
+      "artist": "Who Knew",
+      "day": "day TBC",
+      "stage": "Shangri-La (LUNA)"
+    },
+    {
+      "artist": "Who’s Jordan",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Wilfy D",
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "Wilkinson",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Witch",
+      "day": "day TBC",
+      "stage": "Shangri-La"
     },
     {
       "artist": "Wolf Alice",
@@ -937,13 +4617,63 @@
     },
     {
       "artist": "Wunderhorse",
-      "day": "Fri 27th",
-      "stage": "Stage TBC"
+      "day": "day TBC",
+      "stage": "Unfairground"
+    },
+    {
+      "artist": "X Club. B2b Miley Serious",
+      "day": "day TBC",
+      "stage": "The Common - Temple"
+    },
+    {
+      "artist": "Yann Tiersen",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Yemz",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Youth",
+      "day": "day TBC",
+      "stage": "Woodsies - Tree Stage"
+    },
+    {
+      "artist": "Yu Su",
+      "day": "day TBC",
+      "stage": "San Remo"
+    },
+    {
+      "artist": "Yung Singh",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Firmly Rooted Sound System"
+    },
+    {
+      "artist": "Yunji, Mar Vista, H4rdy, Coziest, 7ip7o3 &amp; T.t.e",
+      "day": "day TBC",
+      "stage": "The Common - Kinetic"
     },
     {
       "artist": "Yussef Dayes",
       "day": "Sat 28th",
       "stage": "West Holts"
+    },
+    {
+      "artist": "Zack Fox",
+      "day": "Thu 26th",
+      "stage": "Silver Hayes - Lonely Hearts Club"
+    },
+    {
+      "artist": "Zaid Hilal &amp; Beje",
+      "day": "day TBC",
+      "stage": "Croissant Neuf - Big Top"
+    },
+    {
+      "artist": "Zoe Lyons",
+      "day": "day TBC",
+      "stage": "Unfairground"
     }
   ]
 }

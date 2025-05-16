@@ -6,10 +6,15 @@ type ScheduleModalProps = {
   schedule: FestivalLineup[];
   onClose: () => void;
   onRemoveFromSchedule: (artist: FestivalLineup) => void;
+  accessToken: any;
 };
 
-export default function ScheduleModal({ schedule, onClose, onRemoveFromSchedule }: ScheduleModalProps) {
+export default function ScheduleModal({ schedule, onClose, onRemoveFromSchedule, accessToken }: ScheduleModalProps) {
   const [selectedDay, setSelectedDay] = useState("");
+  const [isCreatingPlaylist, setIsCreatingPlaylist] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [playlistUrl, setPlaylistUrl] = useState<string | null>(null);
+
   const allDays = orderDays([...new Set(schedule.map((item) => item.day))]);
 
   const filteredSchedule = selectedDay ? schedule.filter((item) => item.day === selectedDay) : schedule;
@@ -17,6 +22,39 @@ export default function ScheduleModal({ schedule, onClose, onRemoveFromSchedule 
   const sortedScheduleByDay: [string, FestivalLineup[]][] = orderDays([
     ...new Set(filteredSchedule.map((item) => item.day)),
   ]).map((day) => [day, filteredSchedule.filter((item) => item.day === day)]);
+
+  const createPlaylist = async () => {
+    setIsCreatingPlaylist(true);
+    setError(null);
+    setPlaylistUrl(null);
+
+    try {
+      const res = await fetch("api/create-playlist", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          token: accessToken,
+          schedule,
+        }),
+      });
+      const data = await res.json();
+
+      if (res.ok && data.playlistUrl) {
+        setPlaylistUrl(data.playlistUrl);
+        window.open(data.playlistUrl, "_blank");
+        setIsCreatingPlaylist(false);
+      } else {
+        setError(data.error || "Failed to create playlist.");
+        setIsCreatingPlaylist(false);
+      }
+    } catch (error) {
+      console.error("Error creating playlist:", error);
+      setError("Failed to create playlist. Please try again.");
+      setIsCreatingPlaylist(false);
+    }
+  };
 
   return (
     <div className="fixed inset-0 bg-gradient-to-br from-pink-100/70 via-yellow-100/70 to-blue-100/70 flex justify-center items-center z-50">
@@ -69,6 +107,25 @@ export default function ScheduleModal({ schedule, onClose, onRemoveFromSchedule 
             </div>
           ))
         )}
+        {schedule.length >= 5 && (
+          <button
+            onClick={createPlaylist}
+            className="mt-6 px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded shadow-md"
+            disabled={isCreatingPlaylist}
+          >
+            {isCreatingPlaylist ? "Creating Playlist..." : "Create Spotify Playlist"}
+          </button>
+        )}
+        {playlistUrl && (
+          <p className="mt-2">
+            🎵 Playlist created!{" "}
+            <a href={playlistUrl} target="_blank" rel="noopener noreferrer" className="underline text-blue-600">
+              View on Spotify
+            </a>
+          </p>
+        )}
+
+        {error && <p className="text-red-500 mt-2">{error}</p>}
       </div>
     </div>
   );

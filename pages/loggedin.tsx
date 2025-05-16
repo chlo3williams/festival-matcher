@@ -12,7 +12,7 @@ import MatchCard from "@/components/MatchCard";
 import RecommendationCard from "@/components/RecommendationCard";
 import SmartRecommendations from "@/components/SmartRecommendations";
 import ScheduleModal from "@/components/ScheduleModal";
-import { attachDayToRecommendations } from "@/helpers/attachDayToRecommendation";
+import { filterAndAttachDayToRecommendations } from "@/utils/filterRecommendations";
 import { matchFestivalArtists } from "@/utils/matchArtists";
 import TopArtists from "@/components/TopArtists";
 
@@ -23,6 +23,7 @@ export default function LoggedInPage() {
 
   const [artists, setArtists] = usePersistentState<Artist[]>("spotify_artists", []);
   const [lineup, setLineup] = usePersistentState<FestivalLineup[]>("festival_lineup", []);
+  const [festivalName, setFestivalName] = usePersistentState<string>("selected_festival_name", "");
   const [matches, setMatches] = useState<FestivalLineup[]>([]);
   const [recommendations, setRecommendations] = usePersistentState<RecommendationWithDay[]>(
     "festival_recommendations",
@@ -85,7 +86,7 @@ export default function LoggedInPage() {
 
         {accessToken && <TopArtists accessToken={accessToken} onFetched={setArtists} currentArtists={artists} />}
 
-        <FestivalInput onLineupParsed={setLineup} />
+        <FestivalInput onLineupParsed={setLineup} selectedFestival={festivalName} setSelectedFestival={setFestivalName} />
 
         <h2 className="mt-4">Your personalised Spotify matches:</h2>
         {matches.length === 0 ? (
@@ -123,8 +124,8 @@ export default function LoggedInPage() {
           topArtists={artists}
           lineup={lineup}
           onRecommendationsFetched={(recommendations) => {
-            const recsWithDay = attachDayToRecommendations(recommendations, lineup);
-            setRecommendations(recsWithDay);
+            const filteredRecommendations = filterAndAttachDayToRecommendations(recommendations, lineup);
+            setRecommendations(filteredRecommendations);
             setShowRecommendations(true);
           }}
           hasMatches={matches.length > 0}
@@ -136,6 +137,7 @@ export default function LoggedInPage() {
           schedule={schedule}
           onClose={() => setShowSchedule(false)}
           onRemoveFromSchedule={removeFromSchedule}
+          accessToken={accessToken}
         />
       )}
       <div />

@@ -16,7 +16,7 @@ You are a music recommendation expert.
 Here is a user's top Spotify artists:
 ${topArtists.map((a) => `- ${a.name}`).join("\n")}
 
-Here is the festival lineup:
+Here is the festival lineup (only return artists that are not already matched but are in the lineup):
 ${lineup.map((a) => `- ${a.artist} (${a.day}, ${a.stage})`).join("\n")}
 
 Suggest up to 20 artists from the lineup that the user might like, based on their top artists (not including the ones they've already matched). For each one, give a short reason why.
