@@ -59,6 +59,11 @@ export function useSpotifyAuth() {
   const logout = () => {
     localStorage.removeItem("access_token");
     localStorage.removeItem("refresh_token");
+    localStorage.removeItem("festival_schedule");
+    localStorage.removeItem("festival_recommendations");
+    localStorage.removeItem("festival_lineup");
+    localStorage.removeItem("spotify_artists");
+    localStorage.removeItem("selected_festival_name");
     setAccessToken(null);
     setRefreshToken(null);
     router.push("/");

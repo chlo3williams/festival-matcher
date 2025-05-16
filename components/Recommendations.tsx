@@ -1,20 +1,20 @@
 import { useState } from "react";
+import { usePersistentState } from "@/hooks/usePersistentState";
 import { Artist } from "@/types/artist";
 import { FestivalLineup } from "@/types/festival";
 import { Recommendation } from "@/types/recommendation";
-import { getRemainingRequests, decrementRequests, resetRequests } from "@/utils/rateLimit";
 
 type Props = {
   topArtists: Artist[];
   lineup: FestivalLineup[];
   onRecommendationsFetched: (recommendations: Recommendation[]) => void;
+  hasMatches: boolean;
 };
 
-export default function Recommendations({ topArtists, lineup, onRecommendationsFetched }: Props) {
-  const [recommendations, setRecommendations] = useState<Recommendation[]>([]);
+export default function SmartRecommendations({ topArtists, lineup, onRecommendationsFetched, hasMatches }: Props) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-  const [requestsLeft, setRequestsLeft] = useState<number>(getRemainingRequests());
+  const [requestsLeft, setRequestsLeft] = usePersistentState<number>("festival_requests_left", 3);
 
   const fetchRecommendations = async () => {
     if (requestsLeft <= 0) {
@@ -36,10 +36,7 @@ export default function Recommendations({ topArtists, lineup, onRecommendationsF
 
       const data = await res.json();
       onRecommendationsFetched(data.recommendations || []);
-      setRecommendations(data.recommendations || []);
-
-      const updated = decrementRequests();
-      setRequestsLeft(updated);
+      setRequestsLeft(requestsLeft - 1);
     } catch (error) {
       setError("Failed to fetch recommendations");
     } finally {
@@ -49,6 +46,12 @@ export default function Recommendations({ topArtists, lineup, onRecommendationsF
 
   return (
     <div className="mt-8 text-center bg-[rgb(255,244,223)]">
+      {!hasMatches && (
+        <p className="text-gray-700 mb-4">
+          No direct Spotify matches found — but you can still get Smart Recommendations based on your listening!
+        </p>
+      )}
+
       <button
         onClick={fetchRecommendations}
         className="px-4 py-2 mb-8 bg-[rgb(62,149,71)] text-white rounded"
@@ -61,17 +64,7 @@ export default function Recommendations({ topArtists, lineup, onRecommendationsF
           ? `You have ${requestsLeft} smart recommendation${requestsLeft === 1 ? "" : "s"} left.`
           : "You’ve used all your LLM recommendations for now."}
       </p>
-      {process.env.NODE_ENV === "development" && (
-        <button
-          onClick={() => {
-            resetRequests();
-            setRequestsLeft(3);
-          }}
-          className="text-sm underline text-blue-600 mb-8"
-        >
-          Reset LLM request count (dev only)
-        </button>
-      )}
+
       {error && <p className="text-red-500 mt-2">{error}</p>}
     </div>
   );

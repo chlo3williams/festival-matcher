@@ -1,6 +1,6 @@
-import { useState } from "react";
-import Papa from "papaparse";
+import { useEffect } from "react";
 
+import { usePersistentState } from "@/hooks/usePersistentState";
 import { FestivalLineup } from "@/types/festival";
 import glastonbury2025Data from "../data/glastonbury2025.json";
 import tramlines2025Data from "../data/tramlines2025.json";
@@ -18,7 +18,13 @@ const presetLineups: Record<string, FestivalLineup[]> = {
 };
 
 export default function FestivalInput({ onLineupParsed }: Props) {
-  const [selectedFestival, setSelectedFestival] = useState<string>("");
+  const [selectedFestival, setSelectedFestival] = usePersistentState<string>("selected_festival_name", "");
+
+  useEffect(() => {
+    if (selectedFestival && presetLineups[selectedFestival]) {
+      onLineupParsed([...presetLineups[selectedFestival]]);
+    }
+  }, [selectedFestival]);
 
   const handlePresetSelect = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const festival = event.target.value;
@@ -31,35 +37,6 @@ export default function FestivalInput({ onLineupParsed }: Props) {
     }
   };
 
-  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0];
-    if (!file) return;
-
-    const reader = new FileReader();
-    const isCSV = file.name.endsWith(".csv");
-
-    reader.onload = () => {
-      const text = reader.result as string;
-
-      if (isCSV) {
-        Papa.parse<FestivalLineup>(text, {
-          header: true,
-          skipEmptyLines: true,
-          complete: (results: any) => {
-            onLineupParsed(results.data);
-          },
-        });
-      } else {
-        try {
-          const parsed = JSON.parse(text);
-          onLineupParsed(parsed.lineup || parsed);
-        } catch (error) {
-          alert("Invalid JSON format");
-        }
-      }
-    };
-    reader.readAsText(file);
-  };
   return (
     <div className="text-center">
       <label className="block">

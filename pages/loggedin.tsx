@@ -2,6 +2,7 @@ import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
 
 import { useSpotifyAuth } from "@/hooks/useSpotifyAuth";
+import { usePersistentState } from "@/hooks/usePersistentState";
 import { Artist } from "@/types/artist";
 import { FestivalLineup } from "@/types/festival";
 import { RecommendationWithDay } from "@/types/recommendation";
@@ -9,7 +10,7 @@ import DayFilter from "@/components/DayFilter";
 import FestivalInput from "@/components/FestivalInput";
 import MatchCard from "@/components/MatchCard";
 import RecommendationCard from "@/components/RecommendationCard";
-import Recommendations from "@/components/Recommendations";
+import SmartRecommendations from "@/components/Recommendations";
 import ScheduleModal from "@/components/ScheduleModal";
 import { attachDayToRecommendations } from "@/helpers/attachDayToRecommendation";
 import { matchFestivalArtists } from "@/utils/matchArtists";
@@ -20,13 +21,16 @@ export default function LoggedInPage() {
 
   const { accessToken, fetchWithAuth, logout } = useSpotifyAuth();
 
-  const [artists, setArtists] = useState<Artist[]>([]);
-  const [lineup, setLineup] = useState<FestivalLineup[]>([]);
+  const [artists, setArtists] = usePersistentState<Artist[]>("spotify_artists", []);
+  const [lineup, setLineup] = usePersistentState<FestivalLineup[]>("festival_lineup", []);
   const [matches, setMatches] = useState<FestivalLineup[]>([]);
-  const [recommendations, setRecommendations] = useState<RecommendationWithDay[]>([]);
+  const [recommendations, setRecommendations] = usePersistentState<RecommendationWithDay[]>(
+    "festival_recommendations",
+    []
+  );
   const [showRecommendations, setShowRecommendations] = useState(false);
   const [selectedDay, setSelectedDay] = useState<string>("");
-  const [schedule, setSchedule] = useState<FestivalLineup[]>([]);
+  const [schedule, setSchedule] = usePersistentState<FestivalLineup[]>("festival_schedule", []);
   const [showSchedule, setShowSchedule] = useState(false);
 
   const filteredMatches = matches.filter((match) => !selectedDay || match.day === selectedDay);
@@ -44,6 +48,12 @@ export default function LoggedInPage() {
       prev.filter((item) => !(item.artist === artistToRemove.artist && item.day === artistToRemove.day))
     );
   };
+
+  useEffect(() => {
+    if (recommendations.length > 0) {
+      setShowRecommendations(true);
+    }
+  }, []);
 
   useEffect(() => {
     console.log("Matching triggered!", artists.length, lineup.length);
@@ -72,7 +82,8 @@ export default function LoggedInPage() {
         >
           My Schedule
         </button>
-        {accessToken && <TopArtists accessToken={accessToken} onFetched={setArtists} />}
+
+        {accessToken && <TopArtists accessToken={accessToken} onFetched={setArtists} currentArtists={artists} />}
 
         <FestivalInput onLineupParsed={setLineup} />
 
@@ -91,7 +102,7 @@ export default function LoggedInPage() {
 
             <div className="grid gap-4 mt-4 sm:grid-cols-2">
               {filteredMatches.map((match, i) => (
-                <MatchCard key={i} {...match} onAddToSchedule={addToSchedule} />
+                <MatchCard key={i} {...match} onAddToSchedule={addToSchedule} schedule={schedule} />
               ))}
             </div>
 
@@ -100,25 +111,26 @@ export default function LoggedInPage() {
                 <h2 className="mt-8">Smart Recommendations:</h2>
                 <div className="mt-8 grid gap-4 sm:grid-cols-2 mr-6 ml-6">
                   {filteredRecommendations.map((rec, i) => (
-                    <RecommendationCard key={i} {...rec} onAddToSchedule={addToSchedule} />
+                    <RecommendationCard key={i} {...rec} onAddToSchedule={addToSchedule} schedule={schedule}/>
                   ))}
                 </div>
               </>
             )}
           </>
         )}
-        {matches.length > 0 && (
-          <Recommendations
-            topArtists={artists}
-            lineup={lineup}
-            onRecommendationsFetched={(recommendations) => {
-              const recsWithDay = attachDayToRecommendations(recommendations, lineup);
-              setRecommendations(recsWithDay);
-              setShowRecommendations(true);
-            }}
-          />
-        )}
+
+        <SmartRecommendations
+          topArtists={artists}
+          lineup={lineup}
+          onRecommendationsFetched={(recommendations) => {
+            const recsWithDay = attachDayToRecommendations(recommendations, lineup);
+            setRecommendations(recsWithDay);
+            setShowRecommendations(true);
+          }}
+          hasMatches={matches.length > 0}
+        />
       </div>
+
       {showSchedule && (
         <ScheduleModal
           schedule={schedule}
