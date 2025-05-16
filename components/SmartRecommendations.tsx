@@ -45,27 +45,31 @@ export default function SmartRecommendations({ topArtists, lineup, onRecommendat
   };
 
   return (
-    <div className="mt-8 text-center bg-[rgb(255,244,223)]">
-      {!hasMatches && (
-        <p className="text-gray-700 mb-4">
-          No direct Spotify matches found — but you can still get Smart Recommendations based on your listening!
-        </p>
+    <>
+      {lineup.length > 0 && (
+        <div className="mt-8 text-center bg-[rgb(255,244,223)]">
+          {!hasMatches && (
+            <p className="text-gray-700 mb-4">
+              No direct Spotify matches found — but you can still get Smart Recommendations based on your listening!
+            </p>
+          )}
+
+          <button
+            onClick={fetchRecommendations}
+            className="px-4 py-2 mb-8 bg-[rgb(62,149,71)] text-white rounded"
+            disabled={loading}
+          >
+            {loading ? "Loading..." : "Get Smart Recommendations"}
+          </button>
+          <p className="text-sm text-gray-600 mb-4">
+            {requestsLeft > 0
+              ? `You have ${requestsLeft} smart recommendation${requestsLeft === 1 ? "" : "s"} left.`
+              : "You’ve used all your LLM recommendations for now."}
+          </p>
+
+          {error && <p className="text-red-500 mt-2">{error}</p>}
+        </div>
       )}
-
-      <button
-        onClick={fetchRecommendations}
-        className="px-4 py-2 mb-8 bg-[rgb(62,149,71)] text-white rounded"
-        disabled={loading}
-      >
-        {loading ? "Loading..." : "Get Smart Recommendations"}
-      </button>
-      <p className="text-sm text-gray-600 mb-4">
-        {requestsLeft > 0
-          ? `You have ${requestsLeft} smart recommendation${requestsLeft === 1 ? "" : "s"} left.`
-          : "You’ve used all your LLM recommendations for now."}
-      </p>
-
-      {error && <p className="text-red-500 mt-2">{error}</p>}
-    </div>
+    </>
   );
 }

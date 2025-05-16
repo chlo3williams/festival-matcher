@@ -10,7 +10,7 @@ import DayFilter from "@/components/DayFilter";
 import FestivalInput from "@/components/FestivalInput";
 import MatchCard from "@/components/MatchCard";
 import RecommendationCard from "@/components/RecommendationCard";
-import SmartRecommendations from "@/components/Recommendations";
+import SmartRecommendations from "@/components/SmartRecommendations";
 import ScheduleModal from "@/components/ScheduleModal";
 import { attachDayToRecommendations } from "@/helpers/attachDayToRecommendation";
 import { matchFestivalArtists } from "@/utils/matchArtists";
