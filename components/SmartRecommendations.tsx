@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { track } from '@vercel/analytics';
 import { usePersistentState } from "@/hooks/usePersistentState";
 import { Artist } from "@/types/artist";
 import { FestivalLineup } from "@/types/festival";
@@ -26,6 +27,13 @@ export default function SmartRecommendations({ topArtists, lineup, onRecommendat
     setError("");
 
     try {
+      track('Smart Recommendations Click', {
+        topArtistsCount: topArtists.length,
+        lineupCount: lineup.length,
+        userHasMatches: hasMatches,
+        requestsRemaining: requestsLeft,
+      });
+
       const res = await fetch("/api/recommendations", {
         method: "POST",
         headers: {
