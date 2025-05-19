@@ -1,40 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🎪 Festival Matcher
 
-## Getting Started
+Festival Matcher connects your Spotify listening habits with real-world festival lineups — showing you who to see based on your top artists, and recommending others using OpenAI-powered insights. Plan your perfect weekend with matches, smart suggestions, and generate custom playlists.
 
-First, run the development server:
+## Features
+
+### 🔐 Login with Spotify
+
+Start by logging in via Spotify to fetch your top artists.
+
+![Homepage](/public/screenshot-1.png)
+
+
+### 🎧 Festival Selection
+
+Choose from the current supported festivals (e.g. Glastonbury 2025, Tramlines 2025). Once selected, the app matches your top Spotify artists with the festival lineup.
+
+### 🤝 Spotify Match Recommendations
+
+Instantly see which artists you already enjoy listening to are playing at the festival. You can filter by day to plan out who to see each day.
+
+Each artist is displayed as a **match card**, and you can click **➕** to add them to your schedule.
+
+![Matches](/public/screenshot-2.png)
+
+### 🧠 Smart Recommendations (LLM-powered)
+
+Even if you don’t have lots of matches or just need some more inspiration, you can get **Smart Recommendations** powered by OpenAI. These suggest artists you might enjoy based on your listening and all from within the lineup.
+
+Clicking **Get Smart Recommendations** uses one of your limited requests (3 per session). This feature helps you find undiscovered gems based on your taste.
+
+![Smart Recommendations](/public/screenshot-3.png)
+
+### 🗓️ My Schedule
+
+All your selected artists go into a personal schedule. Open your **My Schedule** modal to:
+
+- Filter by day
+- See all saved artists and stages
+- Remove artists
+- Export a Spotify playlist
+
+![Schedule](/public/screenshot-4.png)
+
+### 🎵 Spotify Playlist Generation
+
+When you have at least 5 artists in your schedule, you can create and send a playlist directly to your Spotify account. The playlist pulls in top tracks from your selected artists where you can view and listen instantly. 
+
+![Spotify Playlist](/public/screenshot-5.png)
+
+## Tech Stack
+
+- **Next.js** (Pages Router)
+- **TypeScript**
+- **Spotify Web API**
+- **OpenAI API** (GPT-3.5-turbo for recommendations)
+- **Tailwind CSS**
+- **Vercel Analytics**
+
+## Local Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Set your environment variables in .env.local
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```bash
+SPOTIFY_CLIENT_ID=your_id
+SPOTIFY_CLIENT_SECRET=your_secret
+NEXT_PUBLIC_REDIRECT_URI=http://localhost:3000/api/callback
+OPENAI_API_KEY=your_key
+```
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Deployment
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+Deployed to [Vercel](https://festival-matcher.vercel.app/). Run locally with `pnpm dev`.
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Future Improvements
 
-To learn more about Next.js, take a look at the following resources:
+- More festival lineups!
+- Calendar export
+- Upgrade persistent state solution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+✨ Made by [Chloe Williams](https://github.com/chlo3williams)
